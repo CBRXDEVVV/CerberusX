@@ -1,9 +1,9 @@
 {
   "chainId": 101,
-  "address": "CBRX_TOKEN_ADDRESS",  
+  "address": 6kvdueV2T6jsLjbkt9f6S2P5diu2zkH3b2etJMPHPcKS
   "symbol": "CBRX",
   "name": "CerberusX",
   "decimals": 9,
-  "logoURI": "https://raw.githubusercontent.com/사용자_저장소/token-list/main/assets/CBRX.png",
-  "tags": ["meme", "utility"]
+  "logoURI": "https://raw.githubusercontent.com/내GitHub/token-list/main/assets/mainnet/CBRX.png",
+  "tags": ["meme", "ai"]
 }
